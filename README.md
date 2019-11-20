@@ -4,7 +4,7 @@
 |------|-----|----------|
 |타이타닉|<a href="https://www.kaggle.com/c/titanic/data" target="_blank"><img src="./img/타이타닉.JPG" width="100%" height="70%">|[기본 예제](https://github.com/kwong3528/Python/blob/master/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89.ipynb),        [앙상블 기법을 이용](https://github.com/kwong3528/Python/blob/master/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EC%95%99%EC%83%81%EB%B8%94.ipynb)|
 
-#### 캐글 타이타닉을 이미 진행하신분들의 코드를 필사하며 공부를 하였다.
+#### 캐글 타이타닉을 이미 진행하신분들의 코드를 필사하며 공부를 하였습니다.
 --------------------------------------------------------------
 # 와인퀄리티 분류
 <!-- <pre><code><pre/><code/>안에 코드를 넣으면 된다 -->
@@ -27,8 +27,8 @@
 출력 변수(센서 데이터에 기반):
 12 - 품질 (0~10점)
 
-#### 기존의 와인 퀄리티 분류문제에 여러모델을 적용해보았다.
-#### 랜덤포레스트의 정확도가 가장 높게나왔다.
+#### 기존의 와인 퀄리티 분류문제에 여러모델을 적용해보았습니다.
+#### 랜덤포레스트의 정확도가 가장 높게나왔습니다.
 
 ------------------
 # 와인퀄리티 분류
@@ -38,6 +38,7 @@
 |질문분류|<a href="https://www.kaggle.com/c/quora-question-pairs/data" target="_blank"><img src="./img/Quora.PNG" width="100%" height="70%">|[기본 예제](https://github.com/kwong3528/Kaggle-practice/blob/master/%EC%99%80%EC%9D%B8%ED%80%84%EB%A6%AC%ED%8B%B0%EB%B6%84%EB%A5%98/wine-quality.ipynb)|
 
 
-#### 같은 질문인지 아닌지 분류하는 문제이다.
-#### 조금 더 공부한 후 내용을 보충 해보겠다.
+#### 같은 질문인지 아닌지 분류하는 문제입니다.
+#### 조금 더 공부한 후 내용을 보충 해보겠습니다.
+#### 한글로 된 데이터는 폴더안에 있습니다.
  
