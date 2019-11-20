@@ -29,4 +29,15 @@
 
 #### 기존의 와인 퀄리티 분류문제에 여러모델을 적용해보았다.
 #### 랜덤포레스트의 정확도가 가장 높게나왔다.
+
+------------------
+# 와인퀄리티 분류
+<!-- <pre><code><pre/><code/>안에 코드를 넣으면 된다 -->
+| 주제 |이미지를 누르면 데이터를 다운로드하는 곳으로 이동합니다.| 코드주소 |
+|------|-----|----------|
+|질문분류|<a href="https://www.kaggle.com/c/quora-question-pairs/data" target="_blank"><img src="./img/Quora.PNG" width="100%" height="70%">|[기본 예제](https://github.com/kwong3528/Kaggle-practice/blob/master/%EC%99%80%EC%9D%B8%ED%80%84%EB%A6%AC%ED%8B%B0%EB%B6%84%EB%A5%98/wine-quality.ipynb)|
+
+
+#### 같은 질문인지 아닌지 분류하는 문제이다.
+#### 조금 더 공부한 후 내용을 보충 해보겠다.
  
